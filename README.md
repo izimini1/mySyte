@@ -1,4 +1,4 @@
 # Репозиторий с публичной страницей
 
 ## Страница сайта:
-<!--Вставить ссылку на публичную страницу-->
+https://izimini1.github.io/mySyte/)https://izimini1.github.io/mySyte/
